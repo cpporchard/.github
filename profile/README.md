@@ -38,7 +38,7 @@
 
 
 ## Mysql Ecosystem
-- MTR
-- mysqlshell
-- mysql-audit-log
+- mysql-test-run (mtr)
+- mysql-shell
+- audit-plugin-for-mysql
 - tbstack
