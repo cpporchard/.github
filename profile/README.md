@@ -11,9 +11,13 @@
 - Make vs CMake
 - GDB
 - Core Dump
-- ASAN
+- ASAN, TSAN, Debug, Valgrind
 - Bazil Multi Module
 - Git merge downstream
+- gprof
+- Compiler Optimization Levels
+- Compilers `g++` vs `gcc`
+- Boost
 
 #### CPP
 - Struct
@@ -42,3 +46,17 @@
 - mysql-shell
 - audit-plugin-for-mysql
 - tbstack
+- mysql-connector-cpp
+- mysql-replication-listener [binlog reader]
+- mysql-plugin-threadpool [Good example]
+- inno_space [Innodb reader]
+- mysql-hyperloglog [Good example]
+- MySlowTranCapture
+- mysql_vss
+- mysql-binlog-events
+- MySQL-Provider
+- aws-mysql-odbc
+- mysql-plugin-spider-engine
+
+
+- tpch
