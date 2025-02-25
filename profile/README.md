@@ -28,6 +28,7 @@
 
 #### Mature Codebase
 - Facebook Mysql
+- OSS Mysql
 - DuckDB
 - MariaDB
 
