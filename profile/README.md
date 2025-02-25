@@ -57,6 +57,7 @@
 - MySQL-Provider
 - aws-mysql-odbc
 - mysql-plugin-spider-engine
-
-
+- mysql-workbench
 - tpch
+- mysql-router
+- 
