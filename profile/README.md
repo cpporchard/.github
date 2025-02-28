@@ -23,6 +23,7 @@
 - Struct
 - Class
 - `ifdef`
+- STL
 
 </details>
 
