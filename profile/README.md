@@ -17,13 +17,12 @@
 - gprof
 - Compiler Optimization Levels
 - Compilers `g++` vs `gcc`
-- Boost
+- Boost vs STL
 
 #### CPP
 - Struct
 - Class
 - `ifdef`
-- STL
 
 </details>
 
