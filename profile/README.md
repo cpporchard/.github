@@ -42,10 +42,10 @@
 
 
 ## Mysql Ecosystem
-- mysql-test-run (mtr)
-- mysql-shell
+- mysql-test-run (mtr) ✅ 
+- mysql-shell ✅ 
 - audit-plugin-for-mysql
-- tbstack
+- tbstack ✅ 
 - mysql-connector-cpp
 - mysql-replication-listener [binlog reader]
 - mysql-plugin-threadpool [Good example]
